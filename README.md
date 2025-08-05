@@ -1,5 +1,5 @@
 Overview
-This is a simple web project built with HTML, CSS, and JavaScript. It showcases [briefly describe what your website does, e.g., a personal portfolio, a to-do list app, or a static webpage with interactive features]. The project is hosted on GitHub Pages and can be viewed live at [insert your GitHub Pages URL, e.g., https://your-username.github.io/my-website/].
+This is a simple web project built with HTML, CSS, and JavaScript. It showcases. The project is hosted on GitHub Pages and can be viewed live at 
 Features
 
 HTML: Structures the content of the webpage.
@@ -20,7 +20,7 @@ A modern web browser (e.g., Chrome, Firefox, Edge).
 
 Installation
 
-Clone the repository to your local machine:git clone https://github.com/your-username/my-website.git
+Clone the repository to your local machine:git clone https://github.com/rishikagoel23/rishika-goel-portfolio.git
 
 
 Navigate to the project directory:cd my-website
@@ -34,7 +34,7 @@ This project is deployed on GitHub Pages. To deploy your own version:
 Push your code to a GitHub repository.
 Go to the repository's Settings > Pages.
 Select the main branch and root directory (/), then save.
-Access the site at https://your-username.github.io/my-website/.
+Access the site at https://github.com/rishikagoel23/rishika-goel-portfolio/.
 
 Usage
 
@@ -49,7 +49,3 @@ Make your changes and commit (git commit -m "Add your feature").
 Push to the branch (git push origin feature/your-feature).
 Open a pull request.
 
-
-This project is licensed under the MIT License. See the LICENSE file for details. [Note: If you don’t have a LICENSE file, either remove this section or create one.]
-Contact
-For questions or feedback, reach out to [your name or GitHub handle, e.g., @your-username].
